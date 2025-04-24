@@ -48,14 +48,14 @@ User can pull-to-refresh search results
 
 ### 2. Screen Archetypes
 
-- [] Recipes
+- [x] Recipes
 * User can search for recipes by keyword
 * User can view a list of search results
+- [ ] Recipe Details
+* User can tap a recipe to view full recipe details
 * User can favorite a recipe
-- [] Recipe Details
-* User can tap a recipe to view full recipe details 
 * User can favorite a recipe
-- [] Favorite Recipes
+- [ ] Favorite Recipes
 * User can view a list of saved favorite recipes
 
 ### 3. Navigation
@@ -75,9 +75,18 @@ User can pull-to-refresh search results
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<!-- <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
- -->
+<img width="985" alt="Screenshot 2025-04-23 at 11 51 50 PM" src="https://github.com/user-attachments/assets/c30942d7-caaa-4515-893b-481af91c1535" width=600/>
+
+## Screen recording
+
+<div>
+    <a href="https://www.loom.com/share/ad1ce36dcbeb4be1be54af41ebb5ab3b">
+      <p>Simulator - iPhone 16 Pro - 23 April 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ad1ce36dcbeb4be1be54af41ebb5ab3b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ad1ce36dcbeb4be1be54af41ebb5ab3b-f72aad0d27e05d24-full-play.gif">
+    </a>
+  </div>
 
 ## Schema 
 
