@@ -1,8 +1,3 @@
----
-title: Untitled
-
----
-
 # Eatsy
 
 ## Table of Contents

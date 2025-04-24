@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		95A77CA42DB9B459009021DA /* GoogleGenerativeAI in Frameworks */ = {isa = PBXBuildFile; productRef = 95A77CA32DB9B459009021DA /* GoogleGenerativeAI */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		95A77C842DB9A62C009021DA /* Eatsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Eatsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -36,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95A77CA42DB9B459009021DA /* GoogleGenerativeAI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +83,7 @@
 			);
 			name = Eatsy;
 			packageProductDependencies = (
+				95A77CA32DB9B459009021DA /* GoogleGenerativeAI */,
 			);
 			productName = Eatsy;
 			productReference = 95A77C842DB9A62C009021DA /* Eatsy.app */;
@@ -107,6 +113,9 @@
 			);
 			mainGroup = 95A77C7B2DB9A62C009021DA;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				95A77CA22DB9B459009021DA /* XCRemoteSwiftPackageReference "generative-ai-swift" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 95A77C852DB9A62C009021DA /* Products */;
 			projectDirPath = "";
@@ -333,6 +342,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		95A77CA22DB9B459009021DA /* XCRemoteSwiftPackageReference "generative-ai-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/google/generative-ai-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.5.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		95A77CA32DB9B459009021DA /* GoogleGenerativeAI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 95A77CA22DB9B459009021DA /* XCRemoteSwiftPackageReference "generative-ai-swift" */;
+			productName = GoogleGenerativeAI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 95A77C7C2DB9A62C009021DA /* Project object */;
 }
