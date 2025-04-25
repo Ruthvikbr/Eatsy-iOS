@@ -51,11 +51,11 @@ User can pull-to-refresh search results
 - [x] Recipes
 * User can search for recipes by keyword
 * User can view a list of search results
-- [ ] Recipe Details
+- [x] Recipe Details
 * User can tap a recipe to view full recipe details
 * User can favorite a recipe
 * User can favorite a recipe
-- [ ] Favorite Recipes
+- [x] Favorite Recipes
 * User can view a list of saved favorite recipes
 
 ### 3. Navigation
@@ -67,10 +67,10 @@ User can pull-to-refresh search results
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Recipes
+- [x] Recipes
 * Recipes to Recipe detail screen
 
-- [ ] Favorites
+- [x] Favorites
 * Favorites to Recipe detail screen
 
 ## Wireframes
@@ -80,11 +80,11 @@ User can pull-to-refresh search results
 ## Screen recording
 
 <div>
-    <a href="https://www.loom.com/share/ad1ce36dcbeb4be1be54af41ebb5ab3b">
-      <p>Simulator - iPhone 16 Pro - 23 April 2025 - Watch Video</p>
+    <a href="https://www.loom.com/share/17f216b932c340dc8d60035e1ebe8f55">
+      <p>Simulator - iPhone 16 Pro - 24 April 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/ad1ce36dcbeb4be1be54af41ebb5ab3b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ad1ce36dcbeb4be1be54af41ebb5ab3b-f72aad0d27e05d24-full-play.gif">
+    <a href="https://www.loom.com/share/17f216b932c340dc8d60035e1ebe8f55">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/17f216b932c340dc8d60035e1ebe8f55-904b504f5a56888d-full-play.gif">
     </a>
   </div>
 
